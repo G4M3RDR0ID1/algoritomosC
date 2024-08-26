@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1096\1096\bin\Debug\net8.0\1096.exe
+C:\Users\lucas\source\repos\1096\1096\bin\Debug\net8.0\1096.deps.json
+C:\Users\lucas\source\repos\1096\1096\bin\Debug\net8.0\1096.runtimeconfig.json
+C:\Users\lucas\source\repos\1096\1096\bin\Debug\net8.0\1096.dll
+C:\Users\lucas\source\repos\1096\1096\bin\Debug\net8.0\1096.pdb
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.dll
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\refint\1096.dll
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.pdb
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\1096.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1096\1096\obj\Debug\net8.0\ref\1096.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1080\1080\bin\Debug\net8.0\1080.exe
+C:\Users\lucas\source\repos\1080\1080\bin\Debug\net8.0\1080.deps.json
+C:\Users\lucas\source\repos\1080\1080\bin\Debug\net8.0\1080.runtimeconfig.json
+C:\Users\lucas\source\repos\1080\1080\bin\Debug\net8.0\1080.dll
+C:\Users\lucas\source\repos\1080\1080\bin\Debug\net8.0\1080.pdb
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.dll
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\refint\1080.dll
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.pdb
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\1080.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1080\1080\obj\Debug\net8.0\ref\1080.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\EX1ifElse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2821C2E9-7923-43BF-849B-67790BC3E1A5}|EX1ifElse\\EX1ifElse.csproj|c:\\users\\lucas\\source\\repos\\ex1ifelse\\ex1ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821C2E9-7923-43BF-849B-67790BC3E1A5}|EX1ifElse\\EX1ifElse.csproj|solutionrelative:ex1ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\EX1ifElse\\EX1ifElse\\Program.cs",
+              "RelativeDocumentMoniker": "EX1ifElse\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\EX1ifElse\\EX1ifElse\\Program.cs",
+              "RelativeToolTip": "EX1ifElse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:29:01.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

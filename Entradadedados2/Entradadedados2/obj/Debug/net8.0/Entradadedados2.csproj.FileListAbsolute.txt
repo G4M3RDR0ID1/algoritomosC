@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\bin\Debug\net8.0\Entradadedados2.exe
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\bin\Debug\net8.0\Entradadedados2.deps.json
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\bin\Debug\net8.0\Entradadedados2.runtimeconfig.json
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\bin\Debug\net8.0\Entradadedados2.dll
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\bin\Debug\net8.0\Entradadedados2.pdb
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.dll
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\refint\Entradadedados2.dll
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.pdb
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\Entradadedados2.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Entradadedados2\Entradadedados2\obj\Debug\net8.0\ref\Entradadedados2.dll

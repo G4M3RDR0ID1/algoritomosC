@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1038\1038\bin\Debug\net8.0\1038.exe
+C:\Users\lucas\source\repos\1038\1038\bin\Debug\net8.0\1038.deps.json
+C:\Users\lucas\source\repos\1038\1038\bin\Debug\net8.0\1038.runtimeconfig.json
+C:\Users\lucas\source\repos\1038\1038\bin\Debug\net8.0\1038.dll
+C:\Users\lucas\source\repos\1038\1038\bin\Debug\net8.0\1038.pdb
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.dll
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\refint\1038.dll
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.pdb
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\1038.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1038\1038\obj\Debug\net8.0\ref\1038.dll

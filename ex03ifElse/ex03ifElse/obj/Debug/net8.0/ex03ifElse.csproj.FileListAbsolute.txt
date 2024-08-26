@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\bin\Debug\net8.0\ex03ifElse.exe
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\bin\Debug\net8.0\ex03ifElse.deps.json
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\bin\Debug\net8.0\ex03ifElse.runtimeconfig.json
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\bin\Debug\net8.0\ex03ifElse.dll
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\bin\Debug\net8.0\ex03ifElse.pdb
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.dll
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\refint\ex03ifElse.dll
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.pdb
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ex03ifElse.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ex03ifElse\ex03ifElse\obj\Debug\net8.0\ref\ex03ifElse.dll

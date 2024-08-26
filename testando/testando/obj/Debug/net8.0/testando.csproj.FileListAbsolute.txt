@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\testando\testando\bin\Debug\net8.0\testando.exe
+C:\Users\lucas\source\repos\testando\testando\bin\Debug\net8.0\testando.deps.json
+C:\Users\lucas\source\repos\testando\testando\bin\Debug\net8.0\testando.runtimeconfig.json
+C:\Users\lucas\source\repos\testando\testando\bin\Debug\net8.0\testando.dll
+C:\Users\lucas\source\repos\testando\testando\bin\Debug\net8.0\testando.pdb
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.AssemblyInfo.cs
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.dll
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\refint\testando.dll
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.pdb
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\testando.genruntimeconfig.cache
+C:\Users\lucas\source\repos\testando\testando\obj\Debug\net8.0\ref\testando.dll

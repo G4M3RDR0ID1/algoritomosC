@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1050\1050\bin\Debug\net8.0\1050.exe
+C:\Users\lucas\source\repos\1050\1050\bin\Debug\net8.0\1050.deps.json
+C:\Users\lucas\source\repos\1050\1050\bin\Debug\net8.0\1050.runtimeconfig.json
+C:\Users\lucas\source\repos\1050\1050\bin\Debug\net8.0\1050.dll
+C:\Users\lucas\source\repos\1050\1050\bin\Debug\net8.0\1050.pdb
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.dll
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\refint\1050.dll
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.pdb
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\1050.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1050\1050\obj\Debug\net8.0\ref\1050.dll

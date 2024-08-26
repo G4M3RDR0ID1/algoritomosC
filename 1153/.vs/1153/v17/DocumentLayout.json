@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\1153\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE3A551-52B4-4DDF-8433-78B2779D7542}|1153\\1153.csproj|c:\\users\\lucas\\source\\repos\\1153\\1153\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE3A551-52B4-4DDF-8433-78B2779D7542}|1153\\1153.csproj|solutionrelative:1153\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\1153\\1153\\Program.cs",
+              "RelativeDocumentMoniker": "1153\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\1153\\1153\\Program.cs",
+              "RelativeToolTip": "1153\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:36:24.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

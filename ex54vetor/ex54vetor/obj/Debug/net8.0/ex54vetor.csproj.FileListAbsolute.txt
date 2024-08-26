@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\bin\Debug\net8.0\ex54vetor.exe
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\bin\Debug\net8.0\ex54vetor.deps.json
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\bin\Debug\net8.0\ex54vetor.runtimeconfig.json
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\bin\Debug\net8.0\ex54vetor.dll
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\bin\Debug\net8.0\ex54vetor.pdb
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.dll
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\refint\ex54vetor.dll
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.pdb
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ex54vetor.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ex54vetor\ex54vetor\obj\Debug\net8.0\ref\ex54vetor.dll

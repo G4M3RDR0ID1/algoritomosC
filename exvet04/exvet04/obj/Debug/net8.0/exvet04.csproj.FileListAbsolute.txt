@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\exvet04\exvet04\bin\Debug\net8.0\exvet04.exe
+C:\Users\lucas\source\repos\exvet04\exvet04\bin\Debug\net8.0\exvet04.deps.json
+C:\Users\lucas\source\repos\exvet04\exvet04\bin\Debug\net8.0\exvet04.runtimeconfig.json
+C:\Users\lucas\source\repos\exvet04\exvet04\bin\Debug\net8.0\exvet04.dll
+C:\Users\lucas\source\repos\exvet04\exvet04\bin\Debug\net8.0\exvet04.pdb
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.AssemblyInfo.cs
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.dll
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\refint\exvet04.dll
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.pdb
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\exvet04.genruntimeconfig.cache
+C:\Users\lucas\source\repos\exvet04\exvet04\obj\Debug\net8.0\ref\exvet04.dll

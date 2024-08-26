@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1067\1067\bin\Debug\net8.0\1067.exe
+C:\Users\lucas\source\repos\1067\1067\bin\Debug\net8.0\1067.deps.json
+C:\Users\lucas\source\repos\1067\1067\bin\Debug\net8.0\1067.runtimeconfig.json
+C:\Users\lucas\source\repos\1067\1067\bin\Debug\net8.0\1067.dll
+C:\Users\lucas\source\repos\1067\1067\bin\Debug\net8.0\1067.pdb
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.dll
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\refint\1067.dll
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.pdb
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\1067.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1067\1067\obj\Debug\net8.0\ref\1067.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\bin\Debug\net8.0\exresolvido2.exe
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\bin\Debug\net8.0\exresolvido2.deps.json
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\bin\Debug\net8.0\exresolvido2.runtimeconfig.json
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\bin\Debug\net8.0\exresolvido2.dll
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\bin\Debug\net8.0\exresolvido2.pdb
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.dll
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\refint\exresolvido2.dll
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.pdb
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\exresolvido2.genruntimeconfig.cache
+C:\Users\lucas\source\repos\exresolvido2\exresolvido2\obj\Debug\net8.0\ref\exresolvido2.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\bin\Debug\net8.0\EX1ifElse.exe
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\bin\Debug\net8.0\EX1ifElse.deps.json
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\bin\Debug\net8.0\EX1ifElse.runtimeconfig.json
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\bin\Debug\net8.0\EX1ifElse.dll
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\bin\Debug\net8.0\EX1ifElse.pdb
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.AssemblyInfo.cs
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.dll
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\refint\EX1ifElse.dll
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.pdb
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\EX1ifElse.genruntimeconfig.cache
+C:\Users\lucas\source\repos\EX1ifElse\EX1ifElse\obj\Debug\net8.0\ref\EX1ifElse.dll

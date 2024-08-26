@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1051\1051\bin\Debug\net8.0\1051.exe
+C:\Users\lucas\source\repos\1051\1051\bin\Debug\net8.0\1051.deps.json
+C:\Users\lucas\source\repos\1051\1051\bin\Debug\net8.0\1051.runtimeconfig.json
+C:\Users\lucas\source\repos\1051\1051\bin\Debug\net8.0\1051.dll
+C:\Users\lucas\source\repos\1051\1051\bin\Debug\net8.0\1051.pdb
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.dll
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\refint\1051.dll
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.pdb
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\1051.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1051\1051\obj\Debug\net8.0\ref\1051.dll

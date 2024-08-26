@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ex02vet\ex02vet\bin\Debug\net8.0\ex02vet.exe
+C:\Users\lucas\source\repos\ex02vet\ex02vet\bin\Debug\net8.0\ex02vet.deps.json
+C:\Users\lucas\source\repos\ex02vet\ex02vet\bin\Debug\net8.0\ex02vet.runtimeconfig.json
+C:\Users\lucas\source\repos\ex02vet\ex02vet\bin\Debug\net8.0\ex02vet.dll
+C:\Users\lucas\source\repos\ex02vet\ex02vet\bin\Debug\net8.0\ex02vet.pdb
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.dll
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\refint\ex02vet.dll
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.pdb
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ex02vet.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ex02vet\ex02vet\obj\Debug\net8.0\ref\ex02vet.dll

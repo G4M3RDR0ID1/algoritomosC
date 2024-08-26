@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.AssemblyInfo.cs
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\EEX02\EEX02\bin\Debug\net8.0\EEX02.exe
+C:\Users\lucas\source\repos\EEX02\EEX02\bin\Debug\net8.0\EEX02.deps.json
+C:\Users\lucas\source\repos\EEX02\EEX02\bin\Debug\net8.0\EEX02.runtimeconfig.json
+C:\Users\lucas\source\repos\EEX02\EEX02\bin\Debug\net8.0\EEX02.dll
+C:\Users\lucas\source\repos\EEX02\EEX02\bin\Debug\net8.0\EEX02.pdb
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.dll
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\refint\EEX02.dll
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.pdb
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\EEX02.genruntimeconfig.cache
+C:\Users\lucas\source\repos\EEX02\EEX02\obj\Debug\net8.0\ref\EEX02.dll

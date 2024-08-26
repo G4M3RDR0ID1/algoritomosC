@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\118\118\bin\Debug\net8.0\118.exe
+C:\Users\lucas\source\repos\118\118\bin\Debug\net8.0\118.deps.json
+C:\Users\lucas\source\repos\118\118\bin\Debug\net8.0\118.runtimeconfig.json
+C:\Users\lucas\source\repos\118\118\bin\Debug\net8.0\118.dll
+C:\Users\lucas\source\repos\118\118\bin\Debug\net8.0\118.pdb
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.AssemblyInfo.cs
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.dll
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\refint\118.dll
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.pdb
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\118.genruntimeconfig.cache
+C:\Users\lucas\source\repos\118\118\obj\Debug\net8.0\ref\118.dll
