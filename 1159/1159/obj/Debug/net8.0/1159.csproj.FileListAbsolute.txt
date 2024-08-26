@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\1159\1159\bin\Debug\net8.0\1159.exe
+C:\Users\lucas\source\repos\1159\1159\bin\Debug\net8.0\1159.deps.json
+C:\Users\lucas\source\repos\1159\1159\bin\Debug\net8.0\1159.runtimeconfig.json
+C:\Users\lucas\source\repos\1159\1159\bin\Debug\net8.0\1159.dll
+C:\Users\lucas\source\repos\1159\1159\bin\Debug\net8.0\1159.pdb
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.AssemblyInfo.cs
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.dll
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\refint\1159.dll
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.pdb
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\1159.genruntimeconfig.cache
+C:\Users\lucas\source\repos\1159\1159\obj\Debug\net8.0\ref\1159.dll
