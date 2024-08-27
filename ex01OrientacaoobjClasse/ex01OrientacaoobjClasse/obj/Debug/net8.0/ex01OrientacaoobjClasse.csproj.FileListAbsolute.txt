@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\bin\Debug\net8.0\ex01OrientacaoobjClasse.exe
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\bin\Debug\net8.0\ex01OrientacaoobjClasse.deps.json
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\bin\Debug\net8.0\ex01OrientacaoobjClasse.runtimeconfig.json
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\bin\Debug\net8.0\ex01OrientacaoobjClasse.dll
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\bin\Debug\net8.0\ex01OrientacaoobjClasse.pdb
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.sourcelink.json
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.dll
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\refint\ex01OrientacaoobjClasse.dll
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.pdb
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ex01OrientacaoobjClasse.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ex01OrientacaoobjClasse\ex01OrientacaoobjClasse\obj\Debug\net8.0\ref\ex01OrientacaoobjClasse.dll
