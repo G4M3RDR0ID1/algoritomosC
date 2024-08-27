@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\bin\Debug\net8.0\ex01Obj.exe
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\bin\Debug\net8.0\ex01Obj.deps.json
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\bin\Debug\net8.0\ex01Obj.runtimeconfig.json
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\bin\Debug\net8.0\ex01Obj.dll
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\bin\Debug\net8.0\ex01Obj.pdb
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.sourcelink.json
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.dll
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\refint\ex01Obj.dll
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.pdb
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ex01Obj.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ex01Obj\ex01Obj\obj\Debug\net8.0\ref\ex01Obj.dll
