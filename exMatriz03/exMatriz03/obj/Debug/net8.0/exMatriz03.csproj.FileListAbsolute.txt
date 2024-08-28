@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\bin\Debug\net8.0\exMatriz03.exe
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\bin\Debug\net8.0\exMatriz03.deps.json
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\bin\Debug\net8.0\exMatriz03.runtimeconfig.json
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\bin\Debug\net8.0\exMatriz03.dll
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\bin\Debug\net8.0\exMatriz03.pdb
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.AssemblyInfo.cs
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.sourcelink.json
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.dll
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\refint\exMatriz03.dll
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.pdb
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\exMatriz03.genruntimeconfig.cache
+C:\Users\lucas\source\repos\exMatriz03\exMatriz03\obj\Debug\net8.0\ref\exMatriz03.dll
