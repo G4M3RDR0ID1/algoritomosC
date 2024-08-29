@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\bin\Debug\net8.0\Retangulo_CLasse.exe
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\bin\Debug\net8.0\Retangulo_CLasse.deps.json
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\bin\Debug\net8.0\Retangulo_CLasse.runtimeconfig.json
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\bin\Debug\net8.0\Retangulo_CLasse.dll
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\bin\Debug\net8.0\Retangulo_CLasse.pdb
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.sourcelink.json
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.dll
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\refint\Retangulo_CLasse.dll
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.pdb
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\Retangulo_CLasse.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Retangulo_CLasse\Retangulo_CLasse\obj\Debug\net8.0\ref\Retangulo_CLasse.dll
