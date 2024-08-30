@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\bin\Debug\net8.0\NotasAlunoClasse.exe
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\bin\Debug\net8.0\NotasAlunoClasse.deps.json
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\bin\Debug\net8.0\NotasAlunoClasse.runtimeconfig.json
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\bin\Debug\net8.0\NotasAlunoClasse.dll
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\bin\Debug\net8.0\NotasAlunoClasse.pdb
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.AssemblyInfo.cs
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.sourcelink.json
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.dll
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\refint\NotasAlunoClasse.dll
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.pdb
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\NotasAlunoClasse.genruntimeconfig.cache
+C:\Users\lucas\source\repos\NotasAlunoClasse\NotasAlunoClasse\obj\Debug\net8.0\ref\NotasAlunoClasse.dll
