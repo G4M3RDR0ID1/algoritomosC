@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.exe
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.deps.json
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.runtimeconfig.json
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.dll
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.pdb
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.sourcelink.json
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.dll
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\refint\ClasseFuncionario.dll
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.pdb
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ClasseFuncionario\ClasseFuncionario\obj\Debug\net8.0\ref\ClasseFuncionario.dll

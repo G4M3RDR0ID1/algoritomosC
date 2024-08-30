@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClasseFuncionario/1.0.0": {
+        "runtime": {
+          "ClasseFuncionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseFuncionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
