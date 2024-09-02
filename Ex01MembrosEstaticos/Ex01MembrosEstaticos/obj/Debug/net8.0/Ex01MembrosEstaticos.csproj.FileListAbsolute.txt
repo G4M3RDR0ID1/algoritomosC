@@ -1,0 +1,14 @@
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\bin\Debug\net8.0\Ex01MembrosEstaticos.exe
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\bin\Debug\net8.0\Ex01MembrosEstaticos.deps.json
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\bin\Debug\net8.0\Ex01MembrosEstaticos.runtimeconfig.json
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\bin\Debug\net8.0\Ex01MembrosEstaticos.dll
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\bin\Debug\net8.0\Ex01MembrosEstaticos.pdb
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.dll
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\refint\Ex01MembrosEstaticos.dll
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.pdb
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\Ex01MembrosEstaticos.genruntimeconfig.cache
+C:\Users\Aero-bhz\source\repos\Ex01MembrosEstaticos\Ex01MembrosEstaticos\obj\Debug\net8.0\ref\Ex01MembrosEstaticos.dll
