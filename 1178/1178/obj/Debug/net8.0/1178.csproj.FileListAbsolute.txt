@@ -1,0 +1,14 @@
+C:\Users\Aero-bhz\source\repos\1178\1178\bin\Debug\net8.0\1178.exe
+C:\Users\Aero-bhz\source\repos\1178\1178\bin\Debug\net8.0\1178.deps.json
+C:\Users\Aero-bhz\source\repos\1178\1178\bin\Debug\net8.0\1178.runtimeconfig.json
+C:\Users\Aero-bhz\source\repos\1178\1178\bin\Debug\net8.0\1178.dll
+C:\Users\Aero-bhz\source\repos\1178\1178\bin\Debug\net8.0\1178.pdb
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.AssemblyInfoInputs.cache
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.AssemblyInfo.cs
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.csproj.CoreCompileInputs.cache
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.dll
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\refint\1178.dll
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.pdb
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\1178.genruntimeconfig.cache
+C:\Users\Aero-bhz\source\repos\1178\1178\obj\Debug\net8.0\ref\1178.dll
