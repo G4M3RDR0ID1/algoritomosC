@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\2006\2006\bin\Debug\net8.0\2006.exe
+C:\Users\lucas\source\repos\2006\2006\bin\Debug\net8.0\2006.deps.json
+C:\Users\lucas\source\repos\2006\2006\bin\Debug\net8.0\2006.runtimeconfig.json
+C:\Users\lucas\source\repos\2006\2006\bin\Debug\net8.0\2006.dll
+C:\Users\lucas\source\repos\2006\2006\bin\Debug\net8.0\2006.pdb
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.AssemblyInfo.cs
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.sourcelink.json
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.dll
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\refint\2006.dll
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.pdb
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\2006.genruntimeconfig.cache
+C:\Users\lucas\source\repos\2006\2006\obj\Debug\net8.0\ref\2006.dll
