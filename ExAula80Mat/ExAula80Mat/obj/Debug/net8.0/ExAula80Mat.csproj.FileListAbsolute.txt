@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\bin\Debug\net8.0\ExAula80Mat.exe
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\bin\Debug\net8.0\ExAula80Mat.deps.json
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\bin\Debug\net8.0\ExAula80Mat.runtimeconfig.json
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\bin\Debug\net8.0\ExAula80Mat.dll
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\bin\Debug\net8.0\ExAula80Mat.pdb
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.sourcelink.json
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.dll
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\refint\ExAula80Mat.dll
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.pdb
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ExAula80Mat.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExAula80Mat\ExAula80Mat\obj\Debug\net8.0\ref\ExAula80Mat.dll
