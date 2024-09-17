@@ -1,0 +1,14 @@
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\bin\Debug\net8.0\Listaex01.exe
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\bin\Debug\net8.0\Listaex01.deps.json
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\bin\Debug\net8.0\Listaex01.runtimeconfig.json
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\bin\Debug\net8.0\Listaex01.dll
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\bin\Debug\net8.0\Listaex01.pdb
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.AssemblyInfoInputs.cache
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.AssemblyInfo.cs
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.csproj.CoreCompileInputs.cache
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.dll
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\refint\Listaex01.dll
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.pdb
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\Listaex01.genruntimeconfig.cache
+C:\Users\Aero-bhz\source\repos\Listaex01\Listaex01\obj\Debug\net8.0\ref\Listaex01.dll
