@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net8.0\ListaFuncionarios.exe
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net8.0\ListaFuncionarios.deps.json
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net8.0\ListaFuncionarios.runtimeconfig.json
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net8.0\ListaFuncionarios.dll
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net8.0\ListaFuncionarios.pdb
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.sourcelink.json
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.dll
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\refint\ListaFuncionarios.dll
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.pdb
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ListaFuncionarios.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net8.0\ref\ListaFuncionarios.dll
