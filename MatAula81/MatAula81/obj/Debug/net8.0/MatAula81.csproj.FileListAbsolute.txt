@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\MatAula81\MatAula81\bin\Debug\net8.0\MatAula81.exe
+C:\Users\lucas\source\repos\MatAula81\MatAula81\bin\Debug\net8.0\MatAula81.deps.json
+C:\Users\lucas\source\repos\MatAula81\MatAula81\bin\Debug\net8.0\MatAula81.runtimeconfig.json
+C:\Users\lucas\source\repos\MatAula81\MatAula81\bin\Debug\net8.0\MatAula81.dll
+C:\Users\lucas\source\repos\MatAula81\MatAula81\bin\Debug\net8.0\MatAula81.pdb
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.AssemblyInfo.cs
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.sourcelink.json
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.dll
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\refint\MatAula81.dll
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.pdb
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\MatAula81.genruntimeconfig.cache
+C:\Users\lucas\source\repos\MatAula81\MatAula81\obj\Debug\net8.0\ref\MatAula81.dll
